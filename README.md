@@ -1,10 +1,10 @@
 # Book Store Web Development Program 
 
-##Project Description:
+## Project Description:
 
 The Book Store Web Development Program is a comprehensive Java Core project aimed at creating a dynamic and interactive online bookstore. This project leverages Jakarta EE, JDBC, and Java 8 to provide a robust and scalable solution for managing an online bookstore, covering various aspects from book inventory management to user interactions and transaction processing.
 
-##Key Features:
+## Key Features:
 **User Authentication and Authorization**:
 - Secure user registration and login functionality.
 - Role-based access control to manage different user permissions (e.g., customers, administrators).
@@ -28,11 +28,11 @@ The Book Store Web Development Program is a comprehensive Java Core project aime
 - A comprehensive admin panel to manage books, users, and orders.
 - Reporting tools to generate sales and inventory reports.
   
-##Database:
+## Database:
 - MS SQLServer for storing book, user, and order data.
 - Design the database schema to efficiently manage the relationships between different entities.
 
-  ## License
+## License
 
 This project is licensed under the [MIT License.](https://choosealicense.com/licenses/mit/)
 ## Contact
